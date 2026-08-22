@@ -5,9 +5,13 @@
 
 ---
 
-## 🔥 正在打造：[拾域 CRM](https://github.com/huhufine01-blip/shiyu-crm)
+## 🔥 正在打造：拾域 CRM
 
 一套**客户全生命周期管理系统**——从线索获客、客户转化、订单成交到售后回款，业务闭环一站打通。
+
+| 工作台 + 即时通讯 | AI 线索价值预测 | 客户管理 |
+|:---:|:---:|:---:|
+| ![工作台与IM](assets/im.png) | ![线索价值预测](assets/forecast_sel.png) | ![客户管理](assets/prod_perf.png) |
 
 **这不是玩具项目：**
 
