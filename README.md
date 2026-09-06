@@ -12,7 +12,11 @@
 
 **🎯 天然契合多渠道获客 + 私域承接 + 微信成交的打法：**
 
-`信息流广告` · `CID 模式` · `直播间订单` · `电商订单` · `电话销售`
+![信息流广告](https://img.shields.io/badge/信息流广告-8B1A1A?style=for-the-badge)
+![CID模式](https://img.shields.io/badge/CID_模式-B8860B?style=for-the-badge)
+![直播间订单](https://img.shields.io/badge/直播间订单-996633?style=for-the-badge)
+![电商订单](https://img.shields.io/badge/电商订单-C8A46B?style=for-the-badge)
+![电话销售](https://img.shields.io/badge/电话销售-3A0D0D?style=for-the-badge)
 
 ——不管客户从哪来，统一进线索池、分配即建档、加微跟进、成交复购全流程留痕，**拿来即用**。
 
